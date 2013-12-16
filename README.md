@@ -1,4 +1,4 @@
-wlapimonitoring
+Availability Monitoring for Wiener Linien API
 ===============
 
-Azure Mobile Services (node.js) Project for Monitoring the Wiener Linien Realtime API
+Azure Mobile Services (node.js) project for monitoring uptime of OGD API

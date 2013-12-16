@@ -1,0 +1,803 @@
+{ "data" : { "monitors" : [ { "attributes" : {  },
+    "lines" : [ { "barrierFree" : true,
+        "departures" : { "departure" : [ { "departureTime" : { "countdown" : 0,
+            "timePlanned" : "2013-12-11T09:03:00.000+0100",
+            "timeReal" : "2013-12-11T09:00:58.000+0100"
+        } },
+            { "departureTime" : { "countdown" : 7,
+                "timePlanned" : "2013-12-11T09:10:00.000+0100",
+                "timeReal" : "2013-12-11T09:10:12.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 14,
+                "timePlanned" : "2013-12-11T09:17:00.000+0100",
+                "timeReal" : "2013-12-11T09:17:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "H",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Stefan-Fadinger-Platz",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 17,
+                "timePlanned" : "2013-12-11T09:19:00.000+0100",
+                "timeReal" : "2013-12-11T09:19:30.000+0100"
+            },
+                "vehicle" : { "barrierFree" : true,
+                    "direction" : "H",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Wattgasse, Betriebsbhf. Hernals",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 21,
+                "timePlanned" : "2013-12-11T09:23:00.000+0100",
+                "timeReal" : "2013-12-11T09:23:30.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 27,
+                "timePlanned" : "2013-12-11T09:30:00.000+0100",
+                "timeReal" : "2013-12-11T09:30:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "H",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Stefan-Fadinger-Platz",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 34,
+                "timePlanned" : "2013-12-11T09:37:00.000+0100",
+                "timeReal" : "2013-12-11T09:37:00.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 41,
+                "timePlanned" : "2013-12-11T09:43:00.000+0100",
+                "timeReal" : "2013-12-11T09:43:30.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 47,
+                "timePlanned" : "2013-12-11T09:50:00.000+0100",
+                "timeReal" : "2013-12-11T09:50:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "H",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Stefan-Fadinger-Platz",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 54,
+                "timePlanned" : "2013-12-11T09:57:00.000+0100",
+                "timeReal" : "2013-12-11T09:57:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "H",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Stefan-Fadinger-Platz",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 60,
+                "timePlanned" : "2013-12-11T10:03:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "H",
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Stefan-Fadinger-Platz",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 67,
+                "timePlanned" : "2013-12-11T10:10:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "H",
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Stefan-Fadinger-Platz",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            }
+        ] },
+        "direction" : "H",
+        "lineId" : 101,
+        "name" : "1",
+        "realtimeSupported" : true,
+        "richtungsId" : "1",
+        "towards" : "Stefan-Fadinger-Platz",
+        "trafficjam" : false,
+        "type" : "ptTram"
+    } ],
+    "locationStop" : { "geometry" : { "coordinates" : [ 16.377290354293699,
+        48.211963644573402
+    ],
+        "type" : "Point"
+    },
+        "properties" : { "attributes" : { "rbl" : 42 },
+            "coordName" : "WGS84",
+            "gate" : "B",
+            "municipality" : "Wien",
+            "municipalityId" : 90000,
+            "name" : "60201198",
+            "title" : "Schwedenplatz",
+            "type" : "stop"
+        },
+        "type" : "Feature"
+    }
+},
+    { "lines" : [ { "barrierFree" : true,
+        "departures" : { "departure" : [ { "departureTime" : { "countdown" : 0,
+            "timePlanned" : "2013-12-11T09:04:00.000+0100",
+            "timeReal" : "2013-12-11T09:01:33.000+0100"
+        } },
+            { "departureTime" : { "countdown" : 10,
+                "timePlanned" : "2013-12-11T09:10:00.000+0100",
+                "timeReal" : "2013-12-11T09:13:16.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 16,
+                "timePlanned" : "2013-12-11T09:16:00.000+0100",
+                "timeReal" : "2013-12-11T09:18:21.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "R",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Prater Hauptallee",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 18,
+                "timePlanned" : "2013-12-11T09:22:00.000+0100",
+                "timeReal" : "2013-12-11T09:21:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "R",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Prater Hauptallee",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 27,
+                "timePlanned" : "2013-12-11T09:28:00.000+0100",
+                "timeReal" : "2013-12-11T09:29:26.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 32,
+                "timePlanned" : "2013-12-11T09:34:00.000+0100",
+                "timeReal" : "2013-12-11T09:34:27.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "R",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Prater Hauptallee",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 37,
+                "timePlanned" : "2013-12-11T09:40:00.000+0100",
+                "timeReal" : "2013-12-11T09:40:00.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 44,
+                "timePlanned" : "2013-12-11T09:46:00.000+0100",
+                "timeReal" : "2013-12-11T09:46:30.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "R",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Prater Hauptallee",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 50,
+                "timePlanned" : "2013-12-11T09:53:00.000+0100",
+                "timeReal" : "2013-12-11T09:53:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "R",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Prater Hauptallee",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 57,
+                "timePlanned" : "2013-12-11T09:59:00.000+0100",
+                "timeReal" : "2013-12-11T09:59:30.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "R",
+                    "linienId" : 101,
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Prater Hauptallee",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 63,
+                "timePlanned" : "2013-12-11T10:06:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "R",
+                    "name" : "1",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Prater Hauptallee",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            }
+        ] },
+        "direction" : "R",
+        "lineId" : 101,
+        "name" : "1",
+        "realtimeSupported" : true,
+        "richtungsId" : "1",
+        "towards" : "Prater Hauptallee",
+        "trafficjam" : false,
+        "type" : "ptTram"
+    } ],
+        "locationStop" : { "geometry" : { "coordinates" : [ 16.3778013901773,
+            48.211630711554498
+        ],
+            "type" : "Point"
+        },
+            "properties" : { "attributes" : { "rbl" : 22 },
+                "coordName" : "WGS84",
+                "gate" : "D",
+                "municipality" : "Wien",
+                "municipalityId" : 90000,
+                "name" : "60201198",
+                "title" : "Schwedenplatz",
+                "type" : "stop"
+            },
+            "type" : "Feature"
+        }
+    },
+    { "lines" : [ { "barrierFree" : false,
+        "departures" : { "departure" : [ { "departureTime" : { "countdown" : 4,
+            "timePlanned" : "2013-12-11T09:05:00.000+0100",
+            "timeReal" : "2013-12-11T09:06:30.000+0100"
+        } },
+            { "departureTime" : { "countdown" : 9,
+                "timePlanned" : "2013-12-11T09:11:00.000+0100",
+                "timeReal" : "2013-12-11T09:11:43.000+0100"
+            },
+                "vehicle" : { "barrierFree" : true,
+                    "direction" : "R",
+                    "linienId" : 102,
+                    "name" : "2",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Ottakringer Str., Erdbrustgasse",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 20,
+                "timePlanned" : "2013-12-11T09:17:00.000+0100",
+                "timeReal" : "2013-12-11T09:22:49.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 21,
+                "timePlanned" : "2013-12-11T09:23:00.000+0100",
+                "timeReal" : "2013-12-11T09:23:30.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 27,
+                "timePlanned" : "2013-12-11T09:30:00.000+0100",
+                "timeReal" : "2013-12-11T09:30:00.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 34,
+                "timePlanned" : "2013-12-11T09:36:00.000+0100",
+                "timeReal" : "2013-12-11T09:37:20.000+0100"
+            },
+                "vehicle" : { "barrierFree" : true,
+                    "direction" : "R",
+                    "linienId" : 102,
+                    "name" : "2",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Ottakringer Str., Erdbrustgasse",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 41,
+                "timePlanned" : "2013-12-11T09:43:00.000+0100",
+                "timeReal" : "2013-12-11T09:43:30.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 47,
+                "timePlanned" : "2013-12-11T09:50:00.000+0100",
+                "timeReal" : "2013-12-11T09:50:00.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 54,
+                "timePlanned" : "2013-12-11T09:56:00.000+0100",
+                "timeReal" : "2013-12-11T09:56:30.000+0100"
+            } },
+            { "departureTime" : { "countdown" : 60,
+                "timePlanned" : "2013-12-11T10:03:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "R",
+                    "name" : "2",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Ottakringer Straße, Erdbrustgasse",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            },
+            { "departureTime" : { "countdown" : 67,
+                "timePlanned" : "2013-12-11T10:10:00.000+0100"
+            },
+                "vehicle" : { "barrierFree" : false,
+                    "direction" : "R",
+                    "name" : "2",
+                    "realtimeSupported" : true,
+                    "richtungsId" : "1",
+                    "towards" : "Ottakringer Straße, Erdbrustgasse",
+                    "trafficjam" : false,
+                    "type" : "ptTram"
+                }
+            }
+        ] },
+        "direction" : "R",
+        "lineId" : 102,
+        "name" : "2",
+        "realtimeSupported" : true,
+        "richtungsId" : "1",
+        "towards" : "Ottakringer Str., Erdbrustgasse",
+        "trafficjam" : false,
+        "type" : "ptTram"
+    } ],
+        "locationStop" : { "geometry" : { "coordinates" : [ 16.3778013901773,
+            48.211630711554498
+        ],
+            "type" : "Point"
+        },
+            "properties" : { "attributes" : { "rbl" : 22 },
+                "coordName" : "WGS84",
+                "gate" : "D",
+                "municipality" : "Wien",
+                "municipalityId" : 90000,
+                "name" : "60201198",
+                "title" : "Schwedenplatz",
+                "type" : "stop"
+            },
+            "type" : "Feature"
+        }
+    },
+    { "attributes" : {  },
+        "lines" : [ { "barrierFree" : true,
+            "departures" : { "departure" : [ { "departureTime" : { "countdown" : 1,
+                "timePlanned" : "2013-12-11T08:56:00.000+0100",
+                "timeReal" : "2013-12-11T09:03:58.000+0100"
+            } },
+                { "departureTime" : { "countdown" : 4,
+                    "timePlanned" : "2013-12-11T09:01:00.000+0100",
+                    "timeReal" : "2013-12-11T09:06:52.000+0100"
+                },
+                    "vehicle" : { "barrierFree" : false,
+                        "direction" : "H",
+                        "linienId" : 102,
+                        "name" : "2",
+                        "realtimeSupported" : true,
+                        "richtungsId" : "1",
+                        "towards" : "Friedrich-Engels-Platz",
+                        "trafficjam" : false,
+                        "type" : "ptTram"
+                    }
+                },
+                { "departureTime" : { "countdown" : 6,
+                    "timePlanned" : "2013-12-11T09:06:00.000+0100",
+                    "timeReal" : "2013-12-11T09:09:05.000+0100"
+                },
+                    "vehicle" : { "barrierFree" : false,
+                        "direction" : "H",
+                        "linienId" : 102,
+                        "name" : "2",
+                        "realtimeSupported" : true,
+                        "richtungsId" : "1",
+                        "towards" : "Friedrich-Engels-Platz",
+                        "trafficjam" : false,
+                        "type" : "ptTram"
+                    }
+                },
+                { "departureTime" : { "countdown" : 8,
+                    "timePlanned" : "2013-12-11T09:11:00.000+0100",
+                    "timeReal" : "2013-12-11T09:10:58.000+0100"
+                },
+                    "vehicle" : { "barrierFree" : false,
+                        "direction" : "H",
+                        "linienId" : 102,
+                        "name" : "2",
+                        "realtimeSupported" : true,
+                        "richtungsId" : "1",
+                        "towards" : "Friedrich-Engels-Platz",
+                        "trafficjam" : false,
+                        "type" : "ptTram"
+                    }
+                },
+                { "departureTime" : { "countdown" : 15,
+                    "timePlanned" : "2013-12-11T09:16:00.000+0100",
+                    "timeReal" : "2013-12-11T09:18:02.000+0100"
+                },
+                    "vehicle" : { "barrierFree" : false,
+                        "direction" : "H",
+                        "linienId" : 102,
+                        "name" : "2",
+                        "realtimeSupported" : true,
+                        "richtungsId" : "1",
+                        "towards" : "Friedrich-Engels-Platz",
+                        "trafficjam" : false,
+                        "type" : "ptTram"
+                    }
+                },
+                { "departureTime" : { "countdown" : 17,
+                    "timePlanned" : "2013-12-11T09:21:00.000+0100",
+                    "timeReal" : "2013-12-11T09:20:19.000+0100"
+                } },
+                { "departureTime" : { "countdown" : 24,
+                    "timePlanned" : "2013-12-11T09:27:00.000+0100",
+                    "timeReal" : "2013-12-11T09:26:28.000+0100"
+                },
+                    "vehicle" : { "barrierFree" : false,
+                        "direction" : "H",
+                        "linienId" : 102,
+                        "name" : "2",
+                        "realtimeSupported" : true,
+                        "richtungsId" : "1",
+                        "towards" : "Friedrich-Engels-Platz",
+                        "trafficjam" : false,
+                        "type" : "ptTram"
+                    }
+                },
+                { "departureTime" : { "countdown" : 30,
+                    "timePlanned" : "2013-12-11T09:33:00.000+0100",
+                    "timeReal" : "2013-12-11T09:32:39.000+0100"
+                },
+                    "vehicle" : { "barrierFree" : false,
+                        "direction" : "H",
+                        "linienId" : 102,
+                        "name" : "2",
+                        "realtimeSupported" : true,
+                        "richtungsId" : "1",
+                        "towards" : "Friedrich-Engels-Platz",
+                        "trafficjam" : false,
+                        "type" : "ptTram"
+                    }
+                },
+                { "departureTime" : { "countdown" : 36,
+                    "timePlanned" : "2013-12-11T09:39:00.000+0100",
+                    "timeReal" : "2013-12-11T09:39:00.000+0100"
+                } },
+                { "departureTime" : { "countdown" : 43,
+                    "timePlanned" : "2013-12-11T09:45:00.000+0100",
+                    "timeReal" : "2013-12-11T09:45:30.000+0100"
+                },
+                    "vehicle" : { "barrierFree" : false,
+                        "direction" : "H",
+                        "linienId" : 102,
+                        "name" : "2",
+                        "realtimeSupported" : true,
+                        "richtungsId" : "1",
+                        "towards" : "Friedrich-Engels-Platz",
+                        "trafficjam" : false,
+                        "type" : "ptTram"
+                    }
+                },
+                { "departureTime" : { "countdown" : 49,
+                    "timePlanned" : "2013-12-11T09:52:00.000+0100",
+                    "timeReal" : "2013-12-11T09:52:00.000+0100"
+                } },
+                { "departureTime" : { "countdown" : 56,
+                    "timePlanned" : "2013-12-11T09:59:00.000+0100",
+                    "timeReal" : "2013-12-11T09:59:00.000+0100"
+                } },
+                { "departureTime" : { "countdown" : 62,
+                    "timePlanned" : "2013-12-11T10:05:00.000+0100"
+                },
+                    "vehicle" : { "barrierFree" : false,
+                        "direction" : "H",
+                        "name" : "2",
+                        "realtimeSupported" : true,
+                        "richtungsId" : "1",
+                        "towards" : "Friedrich-Engels-Platz",
+                        "trafficjam" : false,
+                        "type" : "ptTram"
+                    }
+                },
+                { "departureTime" : { "countdown" : 69,
+                    "timePlanned" : "2013-12-11T10:12:00.000+0100"
+                },
+                    "vehicle" : { "barrierFree" : false,
+                        "direction" : "H",
+                        "name" : "2",
+                        "realtimeSupported" : true,
+                        "richtungsId" : "1",
+                        "towards" : "Friedrich-Engels-Platz",
+                        "trafficjam" : false,
+                        "type" : "ptTram"
+                    }
+                }
+            ] },
+            "direction" : "H",
+            "lineId" : 102,
+            "name" : "2",
+            "realtimeSupported" : true,
+            "richtungsId" : "1",
+            "towards" : "Friedrich-Engels-Platz",
+            "trafficjam" : false,
+            "type" : "ptTram"
+        } ],
+        "locationStop" : { "geometry" : { "coordinates" : [ 16.377505619235599,
+            48.211936587665399
+        ],
+            "type" : "Point"
+        },
+            "properties" : { "attributes" : { "rbl" : 134 },
+                "coordName" : "WGS84",
+                "gate" : "A",
+                "municipality" : "Wien",
+                "municipalityId" : 90000,
+                "name" : "60201198",
+                "title" : "Schwedenplatz",
+                "type" : "stop"
+            },
+            "type" : "Feature"
+        }
+    },
+    { "attributes" : {  },
+        "lines" : [ { "barrierFree" : true,
+            "departures" : { "departure" : [ { "departureTime" : { "countdown" : 7,
+                "timePlanned" : "2013-12-11T09:10:00.000+0100",
+                "timeReal" : "2013-12-11T09:10:00.000+0100"
+            } },
+                { "departureTime" : { "countdown" : 17,
+                    "timePlanned" : "2013-12-11T09:20:00.000+0100",
+                    "timeReal" : "2013-12-11T09:20:00.000+0100"
+                } },
+                { "departureTime" : { "countdown" : 27,
+                    "timePlanned" : "2013-12-11T09:30:00.000+0100",
+                    "timeReal" : "2013-12-11T09:30:00.000+0100"
+                } },
+                { "departureTime" : { "countdown" : 37,
+                    "timePlanned" : "2013-12-11T09:40:00.000+0100",
+                    "timeReal" : "2013-12-11T09:40:00.000+0100"
+                } },
+                { "departureTime" : { "countdown" : 47,
+                    "timePlanned" : "2013-12-11T09:50:00.000+0100",
+                    "timeReal" : "2013-12-11T09:50:00.000+0100"
+                } },
+                { "departureTime" : { "countdown" : 57,
+                    "timePlanned" : "2013-12-11T10:00:00.000+0100",
+                    "timeReal" : "2013-12-11T10:00:00.000+0100"
+                } },
+                { "departureTime" : { "countdown" : 67,
+                    "timePlanned" : "2013-12-11T10:10:00.000+0100"
+                } }
+            ] },
+            "direction" : "R",
+            "lineId" : 402,
+            "name" : "2A",
+            "realtimeSupported" : true,
+            "richtungsId" : "1",
+            "towards" : "Schwarzenbergplatz",
+            "trafficjam" : false,
+            "type" : "ptBusCity"
+        } ],
+        "locationStop" : { "geometry" : { "coordinates" : [ 16.376092563242199,
+            48.211631318203402
+        ],
+            "type" : "Point"
+        },
+            "properties" : { "attributes" : { "rbl" : 2934 },
+                "coordName" : "WGS84",
+                "gate" : "E",
+                "municipality" : "Wien",
+                "municipalityId" : 90000,
+                "name" : "60201198",
+                "title" : "Schwedenplatz",
+                "type" : "stop"
+            },
+            "type" : "Feature"
+        }
+    },
+    { "attributes" : {  },
+        "lines" : [ { "barrierFree" : true,
+            "departures" : { "departure" : [ { "departureTime" : { "countdown" : 0,
+                "timePlanned" : "2013-12-11T09:02:19.000+0100",
+                "timeReal" : "2013-12-11T09:02:19.000+0100"
+            } },
+                { "departureTime" : { "countdown" : 4,
+                    "timePlanned" : "2013-12-11T09:06:19.000+0100",
+                    "timeReal" : "2013-12-11T09:06:19.000+0100"
+                } }
+            ] },
+            "direction" : "H",
+            "lineId" : 301,
+            "name" : "U1",
+            "platform" : "1",
+            "realtimeSupported" : true,
+            "richtungsId" : "1",
+            "towards" : "LEOPOLDAU",
+            "trafficjam" : false,
+            "type" : "ptMetro"
+        } ],
+        "locationStop" : { "geometry" : { "coordinates" : [ 16.378097613188601,
+            48.211882413816198
+        ],
+            "type" : "Point"
+        },
+            "properties" : { "attributes" : { "rbl" : 4113 },
+                "coordName" : "WGS84",
+                "gate" : "1",
+                "municipality" : "Wien",
+                "municipalityId" : 90000,
+                "name" : "60201198",
+                "title" : "Schwedenplatz",
+                "type" : "stop"
+            },
+            "type" : "Feature"
+        }
+    },
+    { "attributes" : {  },
+        "lines" : [ { "barrierFree" : true,
+            "departures" : { "departure" : [ { "departureTime" : { "countdown" : 1,
+                "timePlanned" : "2013-12-11T09:03:19.000+0100",
+                "timeReal" : "2013-12-11T09:03:19.000+0100"
+            } },
+                { "departureTime" : { "countdown" : 5,
+                    "timePlanned" : "2013-12-11T09:07:19.000+0100",
+                    "timeReal" : "2013-12-11T09:07:19.000+0100"
+                } }
+            ] },
+            "direction" : "R",
+            "lineId" : 301,
+            "name" : "U1",
+            "platform" : "2",
+            "realtimeSupported" : true,
+            "richtungsId" : "1",
+            "towards" : "REUMANNPLATZ",
+            "trafficjam" : false,
+            "type" : "ptMetro"
+        } ],
+        "locationStop" : { "geometry" : { "coordinates" : [ 16.378070739115199,
+            48.211927389693898
+        ],
+            "type" : "Point"
+        },
+            "properties" : { "attributes" : { "rbl" : 4116 },
+                "coordName" : "WGS84",
+                "gate" : "2",
+                "municipality" : "Wien",
+                "municipalityId" : 90000,
+                "name" : "60201198",
+                "title" : "Schwedenplatz",
+                "type" : "stop"
+            },
+            "type" : "Feature"
+        }
+    },
+    { "attributes" : {  },
+        "lines" : [ { "barrierFree" : true,
+            "departures" : { "departure" : [ { "departureTime" : { "countdown" : 2,
+                "timePlanned" : "2013-12-11T09:04:19.000+0100",
+                "timeReal" : "2013-12-11T09:04:19.000+0100"
+            } },
+                { "departureTime" : { "countdown" : 6,
+                    "timePlanned" : "2013-12-11T09:08:19.000+0100",
+                    "timeReal" : "2013-12-11T09:08:19.000+0100"
+                } }
+            ] },
+            "direction" : "H",
+            "lineId" : 304,
+            "name" : "U4",
+            "platform" : "1",
+            "realtimeSupported" : true,
+            "richtungsId" : "1",
+            "towards" : "HEILIGENSTADT",
+            "trafficjam" : false,
+            "type" : "ptMetro"
+        } ],
+        "locationStop" : { "geometry" : { "coordinates" : [ 16.378137972020699,
+            48.211873405863102
+        ],
+            "type" : "Point"
+        },
+            "properties" : { "attributes" : { "rbl" : 4427 },
+                "coordName" : "WGS84",
+                "gate" : "1",
+                "municipality" : "Wien",
+                "municipalityId" : 90000,
+                "name" : "60201198",
+                "title" : "Schwedenplatz",
+                "type" : "stop"
+            },
+            "type" : "Feature"
+        }
+    },
+    { "attributes" : {  },
+        "lines" : [ { "barrierFree" : true,
+            "departures" : { "departure" : [ { "departureTime" : { "countdown" : 2,
+                "timePlanned" : "2013-12-11T09:04:19.000+0100",
+                "timeReal" : "2013-12-11T09:04:19.000+0100"
+            } },
+                { "departureTime" : { "countdown" : 6,
+                    "timePlanned" : "2013-12-11T09:08:19.000+0100",
+                    "timeReal" : "2013-12-11T09:08:19.000+0100"
+                } }
+            ] },
+            "direction" : "R",
+            "lineId" : 304,
+            "name" : "U4",
+            "platform" : "2",
+            "realtimeSupported" : true,
+            "richtungsId" : "1",
+            "towards" : "HÜTTELDORF",
+            "trafficjam" : false,
+            "type" : "ptMetro"
+        } ],
+        "locationStop" : { "geometry" : { "coordinates" : [ 16.378111024480098,
+            48.211828449633899
+        ],
+            "type" : "Point"
+        },
+            "properties" : { "attributes" : { "rbl" : 4410 },
+                "coordName" : "WGS84",
+                "gate" : "2",
+                "municipality" : "Wien",
+                "municipalityId" : 90000,
+                "name" : "60201198",
+                "title" : "Schwedenplatz",
+                "type" : "stop"
+            },
+            "type" : "Feature"
+        }
+    }
+] },
+    "message" : { "messageCode" : 1,
+        "serverTime" : "2013-12-11T09:02:20.951+0100",
+        "value" : "OK"
+    }
+}
