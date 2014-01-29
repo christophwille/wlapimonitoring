@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IsQandoUp.QandoApi
+namespace Qando.Api
 {
     public enum MonitorInformationErrorCode
     {
+        NotSet = 0,
         DownloadingFailed,
         ResponseParsingFailed
 

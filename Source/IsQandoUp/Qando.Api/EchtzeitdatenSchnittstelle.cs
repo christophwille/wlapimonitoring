@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace IsQandoUp.QandoApi
+namespace Qando.Api
 {
     public class EchtzeitdatenSchnittstelle
     {

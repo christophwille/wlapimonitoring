@@ -1,20 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Threading;
+using System.Text;
 using System.Threading.Tasks;
-using System.Web.Http;
-using System.Web.Mvc;
-using Qando.Api;
 
-namespace IsQandoUp.Controllers
+namespace Qando.Api
 {
-    public class QandoController : ApiController
+    // https://github.com/tjanczuk/edge#how-to-integrate-c-code-into-nodejs-code
+    public class Startup
     {
-        // GET api/qando
-        public async Task<MonitorInformation> Get()
+        public async Task<object> Invoke(object input)
         {
             var schnittstelle = new EchtzeitdatenSchnittstelle();
 

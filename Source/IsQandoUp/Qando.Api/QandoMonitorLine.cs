@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IsQandoUp.QandoApi
+namespace Qando.Api
 {
     public class QandoMonitorLine : MonitorLine
     {

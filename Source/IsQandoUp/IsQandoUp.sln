@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.30110.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsQandoUp", "IsQandoUp\IsQandoUp.csproj", "{36802F32-9A43-4170-95B9-88323F40AD1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qando.Api", "Qando.Api\Qando.Api.csproj", "{1BC8E9E5-408C-4911-9D20-2957289B93AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{36802F32-9A43-4170-95B9-88323F40AD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36802F32-9A43-4170-95B9-88323F40AD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36802F32-9A43-4170-95B9-88323F40AD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC8E9E5-408C-4911-9D20-2957289B93AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC8E9E5-408C-4911-9D20-2957289B93AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC8E9E5-408C-4911-9D20-2957289B93AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC8E9E5-408C-4911-9D20-2957289B93AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

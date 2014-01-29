@@ -148,13 +148,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QandoApi\DefaultHttpClient.cs" />
-    <Compile Include="QandoApi\EchtzeitdatenSchnittstelle.cs" />
-    <Compile Include="QandoApi\MonitorInformation.cs" />
-    <Compile Include="QandoApi\MonitorLine.cs" />
-    <Compile Include="QandoApi\MonitorLineType.cs" />
-    <Compile Include="QandoApi\QandoDeparture.cs" />
-    <Compile Include="QandoApi\QandoMonitorLine.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
@@ -204,7 +197,12 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Scripts\jquery-2.0.3.min.map" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Qando.Api\Qando.Api.csproj">
+      <Project>{1bc8e9e5-408c-4911-9d20-2957289b93ad}</Project>
+      <Name>Qando.Api</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
