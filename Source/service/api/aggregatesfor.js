@@ -14,7 +14,7 @@ exports.get = function(request, response) {
         ' GROUP BY errorCode';
     
     if (sqlFromDate !== 'undefined' && sqlToDate !== 'undefined' && sqlFromDate <= sqlToDate) {
-        request.service.mssql.query(sql, [sqlFromDate, sqlToDate],{
+        request.service.mssql.query(sql, [sqlToDate, sqlFromDate],{
                 success: function(results) {
                     response.send(statusCodes.OK, results);
                 },
